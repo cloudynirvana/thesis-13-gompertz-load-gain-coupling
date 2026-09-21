@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Gompertz-like hazard from load×gain coupling of damaged subsystems: a computational biogerontology object"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  Under what network-coupling assumptions does near-linear local damage produce
+  Gompertz-like hazard in a simulated subsystem graph, and which of those
+  assumptions are identifiable from public demographic schedules versus
+  remaining free gain parameters? Six abstract nodes advance at constant rates,
+  so local damage is exactly linear. An exponential map of mean load is an
+  exact Gompertz hazard (slope 0.0840 per model year). The same damage under an
+  additive map is not. On a synthetic age schedule the hazard-map gain is free
+  and only its product with load velocity is closed; a mean-load channel
+  identifies the gain. Draws are a synthetic surrogate, not a Human Mortality
+  Database file. Not a medical device, and not a claim of rejuvenation or age
+  reversal.
+keywords:
+  - Gompertz hazard
+  - load-gain coupling
+  - subsystem graph
+  - practical identifiability
+  - profile likelihood
+  - Fisher information
+  - demographic schedule
+  - synthetic surrogate
+  - computational biogerontology
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling"
+repository-code: "https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling"
+preferred-citation:
+  type: thesis
+  title: "Gompertz-like hazard from load×gain coupling of damaged subsystems: a computational biogerontology object"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling"
+  notes: "Thesis #13. Computational research. Synthetic demographic schedule, not an HMD download. No document DOI. Not a rejuvenation or clinical claim."
